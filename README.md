@@ -1,7 +1,7 @@
 # thm_owasp_api_top10
 OWASP API Top 10
 
-TryHakMe_part01
+TryHackMe_part01
 https://tryhackme.com/room/owaspapisecuritytop105w
 
 TryHackMe_part02
